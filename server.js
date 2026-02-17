@@ -8,7 +8,7 @@ const os = require('os')
 const { Worker, isMainThread, parentPort } = require('worker_threads')
 
 // ==========================================
-// LÓGICA DE LOS WORKERS (Hilos)
+// LÓGICA DE LOS HILOS
 // ==========================================
 if (!isMainThread) {
   
