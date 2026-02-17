@@ -6,4 +6,4 @@
 
 # Comando para ejecutar el servidor
 
-node server.js 
+- node server.js 
